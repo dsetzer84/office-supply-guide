@@ -14,7 +14,7 @@ const PRODUCTS = [
     bestFor: "Mixed paper + supplies",
     price: "$19.99",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=mesh+metal+desktop+organizer&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=mesh+metal+desktop+organizer&tag=dsetzer841-20",
   },
   {
     sku: "DO-002",
@@ -22,7 +22,7 @@ const PRODUCTS = [
     bestFor: "Deep drawers, pens & clips",
     price: "$27.50",
     rating: "4.7★",
-    link: "https://www.amazon.com/s?k=bamboo+drawer+organizer+tray+set&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=bamboo+drawer+organizer+tray+set&tag=dsetzer841-20",
   },
   {
     sku: "DO-003",
@@ -30,7 +30,7 @@ const PRODUCTS = [
     bestFor: "Growing collections",
     price: "$32.99",
     rating: "4.5★",
-    link: "https://www.amazon.com/s?k=modular+stackable+desk+organizer+cubes&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=modular+stackable+desk+organizer+cubes&tag=dsetzer841-20",
   },
   {
     sku: "DO-004",
@@ -38,7 +38,7 @@ const PRODUCTS = [
     bestFor: "Shared desks, quick access",
     price: "$15.99",
     rating: "4.4★",
-    link: "https://www.amazon.com/s?k=rotating+desktop+organizer+caddy&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=rotating+desktop+organizer+caddy&tag=dsetzer841-20",
   },
   {
     sku: "DO-005",
@@ -46,7 +46,7 @@ const PRODUCTS = [
     bestFor: "Quiet, minimalist desks",
     price: "$22.00",
     rating: "4.5★",
-    link: "https://www.amazon.com/s?k=felt+fabric+desk+organizer&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=felt+fabric+desk+organizer&tag=dsetzer841-20",
   },
   {
     sku: "DO-006",
@@ -54,7 +54,7 @@ const PRODUCTS = [
     bestFor: "Makeup-desk crossover setups",
     price: "$24.99",
     rating: "4.3★",
-    link: "https://www.amazon.com/s?k=acrylic+desk+organizer+tiered&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=acrylic+desk+organizer+tiered&tag=dsetzer841-20",
   },
   {
     sku: "DO-007",
@@ -62,7 +62,7 @@ const PRODUCTS = [
     bestFor: "Reclaiming desktop surface",
     price: "$34.99",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=under+monitor+storage+drawer&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=under+monitor+storage+drawer&tag=dsetzer841-20",
   },
   {
     sku: "DO-008",
@@ -70,7 +70,7 @@ const PRODUCTS = [
     bestFor: "Renters, dorms, tight budgets",
     price: "$11.99",
     rating: "4.2★",
-    link: "https://www.amazon.com/s?k=plastic+drawer+divider+set+office&tag=YOURTAG-20",
+    link: "https://www.amazon.com/s?k=plastic+drawer+divider+set+office&tag=dsetzer841-20",
   },
 ];
 
@@ -182,7 +182,7 @@ export default function BestDeskOrganizers() {
           <strong>Note for the site owner:</strong> replace the placeholder
           product names, prices, and links above with real products
           you&apos;ve researched or tested, and swap{" "}
-          <code>YOURTAG-20</code> for your actual Amazon Associates tracking
+          <code>dsetzer841-20</code> for your actual Amazon Associates tracking
           ID in every link. Search-result links work initially, but direct
           product links (with real ASINs) convert better once you&apos;ve
           chosen final products.
