@@ -15,10 +15,11 @@ Visit http://localhost:3000
 
 ## Before you launch
 
-1. **Get your Amazon Associates tag.** Sign up at
-   https://affiliate-program.amazon.com, then replace every `YOURTAG-20`
-   placeholder in `app/office-supplies/best-desk-organizers/page.js` with
-   your real tracking ID.
+1. **Amazon Associates tag.** The tag `dsetzer841-20` is already set in every
+   product link in `app/office-supplies/best-desk-organizers/page.js` and
+   `app/office-supplies/best-cable-management/page.js`. To use a different
+   tag, sign up at https://affiliate-program.amazon.com and update the `tag=`
+   value in each link.
 2. **Replace placeholder products** with ones you've actually researched or
    tested. Amazon requires disclosure and periodically reviews accounts for
    thin or inaccurate content — genuine write-ups protect your account.
@@ -35,7 +36,8 @@ Visit http://localhost:3000
 app/
   page.js                                  → Homepage
   office-supplies/page.js                  → Category hub
-  office-supplies/best-desk-organizers/     → First buying guide
+  office-supplies/best-desk-organizers/     → Buying guide 01
+  office-supplies/best-cable-management/    → Buying guide 02
   about/page.js
   disclosure/page.js
 components/

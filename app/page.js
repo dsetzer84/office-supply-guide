@@ -43,9 +43,25 @@ export default function Home() {
             </span>
           </Link>
 
+          <Link
+            href="/office-supplies/best-cable-management"
+            className="index-card p-6 block hover:-translate-y-0.5 transition-transform"
+            data-tab="Guide 02"
+          >
+            <h2 className="font-mono text-xl font-bold mt-2">
+              Best Cable Management, 2026
+            </h2>
+            <p className="mt-3 text-ink/80">
+              Eight ways to kill the cable spaghetti under your desk.
+            </p>
+            <span className="mt-4 inline-block font-mono text-xs uppercase tracking-widest text-stamp">
+              Read Guide →
+            </span>
+          </Link>
+
           <div
             className="index-card p-6 opacity-70"
-            data-tab="Guide 02 — Coming Soon"
+            data-tab="Guide 03 — Coming Soon"
           >
             <h2 className="font-mono text-xl font-bold mt-2">
               Best Label Makers for Small Offices
