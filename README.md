@@ -16,10 +16,10 @@ Visit http://localhost:3000
 ## Before you launch
 
 1. **Amazon Associates tag.** The tag `dsetzer841-20` is already set in every
-   product link in `app/office-supplies/best-desk-organizers/page.js` and
-   `app/office-supplies/best-cable-management/page.js`. To use a different
-   tag, sign up at https://affiliate-program.amazon.com and update the `tag=`
-   value in each link.
+   product link across all guides (`best-desk-organizers`, `best-cable-management`,
+   `best-workstation-upgrades`, `best-label-makers`). To use a different tag,
+   sign up at https://affiliate-program.amazon.com and update the `tag=` value
+   in each link.
 2. **Replace placeholder products** with ones you've actually researched or
    tested. Amazon requires disclosure and periodically reviews accounts for
    thin or inaccurate content — genuine write-ups protect your account.
@@ -38,6 +38,8 @@ app/
   office-supplies/page.js                  → Category hub
   office-supplies/best-desk-organizers/     → Buying guide 01
   office-supplies/best-cable-management/    → Buying guide 02
+  office-supplies/best-workstation-upgrades/ → Buying guide 03
+  office-supplies/best-label-makers/        → Buying guide 04
   about/page.js
   disclosure/page.js
 components/

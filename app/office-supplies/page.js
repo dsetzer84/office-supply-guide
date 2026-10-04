@@ -41,6 +41,39 @@ export default function OfficeSuppliesHub() {
             Read Guide →
           </span>
         </Link>
+
+        <Link
+          href="/office-supplies/best-workstation-upgrades"
+          className="index-card p-6 block hover:-translate-y-0.5 transition-transform"
+          data-tab="Guide 03"
+        >
+          <h2 className="font-mono text-xl font-bold mt-2">
+            Best Workstation Upgrades, 2026
+          </h2>
+          <p className="mt-3 text-ink/80">
+            Eight high-ticket upgrades that earn their price — desks, chairs,
+            ultrawides, and docking gear.
+          </p>
+          <span className="mt-4 inline-block font-mono text-xs uppercase tracking-widest text-stamp">
+            Read Guide →
+          </span>
+        </Link>
+
+        <Link
+          href="/office-supplies/best-label-makers"
+          className="index-card p-6 block hover:-translate-y-0.5 transition-transform"
+          data-tab="Guide 04"
+        >
+          <h2 className="font-mono text-xl font-bold mt-2">
+            Best Label Makers for Small Offices, 2026
+          </h2>
+          <p className="mt-3 text-ink/80">
+            Eight label makers raced through one supply closet.
+          </p>
+          <span className="mt-4 inline-block font-mono text-xs uppercase tracking-widest text-stamp">
+            Read Guide →
+          </span>
+        </Link>
       </div>
     </div>
   );
