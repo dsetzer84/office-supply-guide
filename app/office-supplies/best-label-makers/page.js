@@ -14,7 +14,7 @@ const PRODUCTS = [
     bestFor: "Everyday filing & shelf labels",
     price: "$29.99",
     rating: "4.7★",
-    link: "https://www.amazon.com/s?k=brother+p-touch+pt-d210+label+maker&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B09QXZ7ZRD?tag=dsetzer841-20",
   },
   {
     sku: "LBL-002",
@@ -22,7 +22,7 @@ const PRODUCTS = [
     bestFor: "Fast one-handed labeling",
     price: "$24.99",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=dymo+labelmanager+160+label+maker&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B005X9VZ70?tag=dsetzer841-20",
   },
   {
     sku: "LBL-003",
@@ -30,7 +30,7 @@ const PRODUCTS = [
     bestFor: "Phone & desktop templates",
     price: "$59.99",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=brother+p-touch+pt-d460bt+bluetooth+label+maker&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0B1KZQ1HM?tag=dsetzer841-20",
   },
   {
     sku: "LBL-004",
@@ -38,7 +38,7 @@ const PRODUCTS = [
     bestFor: "High-volume shipping & files",
     price: "$109.99",
     rating: "4.5★",
-    link: "https://www.amazon.com/s?k=dymo+labelwriter+550+thermal+label+printer&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B08TLRL392?tag=dsetzer841-20",
   },
   {
     sku: "LBL-005",
@@ -46,7 +46,7 @@ const PRODUCTS = [
     bestFor: "Small-batch & colored labels",
     price: "$39.99",
     rating: "4.7★",
-    link: "https://www.amazon.com/s?k=niimbot+b1+portable+label+printer&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0DPQCP9R7?tag=dsetzer841-20",
   },
   {
     sku: "LBL-006",
@@ -54,7 +54,7 @@ const PRODUCTS = [
     bestFor: "Shared office workhorse",
     price: "$79.99",
     rating: "4.7★",
-    link: "https://www.amazon.com/s?k=brother+p-touch+pt-d610bt+desktop+label+maker&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0B1KZJXPG?tag=dsetzer841-20",
   },
   {
     sku: "LBL-007",
@@ -62,7 +62,7 @@ const PRODUCTS = [
     bestFor: "Budget starter labeling",
     price: "$19.99",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=niimbot+d11+mini+label+maker&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0CZ6SXP59?tag=dsetzer841-20",
   },
   {
     sku: "LBL-008",
@@ -70,14 +70,14 @@ const PRODUCTS = [
     bestFor: "Barcodes & inventory tags",
     price: "$44.99",
     rating: "4.5★",
-    link: "https://www.amazon.com/s?k=phomemo+m110+bluetooth+label+printer&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B07XXB2MXN?tag=dsetzer841-20",
   },
 ];
 
 export default function BestLabelMakers() {
   return (
     <div className="max-w-3xl mx-auto px-6 py-12">
-      <span className="form-label max-w-xs">Guide 02 — Filed 10/2026</span>
+      <span className="form-label max-w-xs">Guide 04 — Filed 10/2026</span>
       <h1 className="font-mono text-4xl font-bold mt-3 leading-tight">
         Best Label Makers for Small Offices, 2026
       </h1>
@@ -238,7 +238,7 @@ export default function BestLabelMakers() {
           are starting points — spot-check them against live Amazon listings
           before each publishing cycle. Every link already carries the site
           tracking tag, so new items only need the same{" "}
-          <code>?k=&amp;tag=</code> link pattern.
+          <code>?tag=</code> link pattern.
         </p>
       </div>
     </div>

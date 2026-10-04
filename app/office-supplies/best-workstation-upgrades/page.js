@@ -14,7 +14,7 @@ const PRODUCTS = [
     bestFor: "Full-day sit/stand switching",
     price: "$499",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=electric+standing+desk+dual+motor&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0B7MX2KP1?tag=dsetzer841-20",
   },
   {
     sku: "WS-002",
@@ -22,7 +22,7 @@ const PRODUCTS = [
     bestFor: "Lower-back relief, 8-hour days",
     price: "$329",
     rating: "4.7★",
-    link: "https://www.amazon.com/s?k=ergonomic+office+chair+lumbar+mesh&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0DPHLWNBG?tag=dsetzer841-20",
   },
   {
     sku: "WS-003",
@@ -30,7 +30,7 @@ const PRODUCTS = [
     bestFor: "Multi-window workflows",
     price: "$449",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=34+inch+ultrawide+monitor+qhd&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0F1H325FN?tag=dsetzer841-20",
   },
   {
     sku: "WS-004",
@@ -38,7 +38,7 @@ const PRODUCTS = [
     bestFor: "Laptop + 2 displays, one cable",
     price: "$189",
     rating: "4.5★",
-    link: "https://www.amazon.com/s?k=usb+c+docking+station+dual+monitor&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0CW9249DK?tag=dsetzer841-20",
   },
   {
     sku: "WS-005",
@@ -46,7 +46,7 @@ const PRODUCTS = [
     bestFor: "Reclaiming desktop, eye-line height",
     price: "$99",
     rating: "4.7★",
-    link: "https://www.amazon.com/s?k=dual+monitor+arm+adjustable&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B07T5SY43L?tag=dsetzer841-20",
   },
   {
     sku: "WS-006",
@@ -54,7 +54,7 @@ const PRODUCTS = [
     bestFor: "Long standing sessions",
     price: "$79",
     rating: "4.6★",
-    link: "https://www.amazon.com/s?k=anti+fatigue+standing+desk+mat&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0831N61G3?tag=dsetzer841-20",
   },
   {
     sku: "WS-007",
@@ -62,7 +62,7 @@ const PRODUCTS = [
     bestFor: "Hiding power bricks & cords",
     price: "$45",
     rating: "4.5★",
-    link: "https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B0DK13ZHNJ?tag=dsetzer841-20",
   },
   {
     sku: "WS-008",
@@ -70,7 +70,7 @@ const PRODUCTS = [
     bestFor: "Paper overflow, lockable",
     price: "$159",
     rating: "4.4★",
-    link: "https://www.amazon.com/s?k=rolling+mobile+file+cabinet+office&tag=dsetzer841-20",
+    link: "https://www.amazon.com/dp/B09JTHT445?tag=dsetzer841-20",
   },
 ];
 
@@ -196,10 +196,9 @@ export default function BestWorkstationUpgrades() {
           <strong>Note for the site owner:</strong> these are high-ticket
           picks, so each sale is worth far more than a $12 organizer — but
           Amazon pays a lower percentage on furniture and monitors. Check the
-          current Associates rate card for your categories, replace these
-          search-result links with direct product links (real ASINs) once
-          you&apos;ve chosen final products, and keep the tracking ID consistent
-          across every link.
+          current Associates rate card for your categories, keep the tracking
+          ID consistent across every link, and swap any item whose exact model
+          changes before each publishing cycle.
         </p>
       </div>
     </div>
