@@ -143,12 +143,69 @@ export default function BestDeskOrganizers() {
         </p>
       </article>
 
-      <p className="mt-6 text-sm text-ink/60">
-        [Add write-ups for the remaining five products, based on your own
-        testing notes or manufacturer specs. Each should be 2–4 sentences
-        that say something specific enough that a stock description
-        couldn&apos;t.]
-      </p>
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Modular Stackable Cube Set &mdash; Best for a Growing Collection
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          Buy a starter set and add a cube at a time as the supply pile grows,
+          which is more than any single-piece organizer can offer. The
+          trade-off is footprint &mdash; stacked cubes eat desk depth fast, so
+          keep them on a shelf or in a corner rather than front and centre.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Rotating Desktop Caddy &mdash; Best for Shared Desks
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          A lazy-Susan footprint that spins the whole cluster toward you instead
+          of making you reach across the desk. It earns its place on a shared or
+          hot-desked surface where several people grab the same pens and clips.
+          The plastic is light at this price &mdash; fine for stationery, not
+          for anything heavy.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Felt Fabric Compartment Organizer &mdash; Best for Quiet Setups
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          The soft option: felt-lined compartments won&apos;t rattle a pen or
+          scratch a phone, which matters if you take calls at the desk. The
+          catch is that felt traps dust and shows wear sooner than mesh, so it
+          suits a tidy, minimalist surface more than a high-traffic supply
+          dump.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Acrylic Multi-Tier Organizer &mdash; Best for Small Items
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          Clear tiers keep small items visible without the industrial look of
+          mesh, which is why this one turns up on vanities as often as desks.
+          Check the tier height against what you&apos;re stacking &mdash;
+          they&apos;re built for slim things like pens, clips, and notepads,
+          not a stapler.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Under-Monitor Storage Drawer &mdash; Best for Paper Overflow
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          Turns the dead zone under a monitor riser into two shallow drawers, so
+          the surface you actually work on stays clear. Measure the clearance
+          under your stand first &mdash; some drawers assume a riser, and the
+          ones that don&apos;t can crowd a low monitor. Best for a
+          paper-and-notebook overflow problem.
+        </p>
+      </article>
 
       <h2 className="font-mono text-xl font-bold mt-12 mb-4">
         Frequently Asked Questions
@@ -179,13 +236,11 @@ export default function BestDeskOrganizers() {
 
       <div className="mt-12 index-card p-6" data-tab="Editor's Note">
         <p className="text-ink/85">
-          <strong>Note for the site owner:</strong> replace the placeholder
-          product names, prices, and links above with real products
-          you&apos;ve researched or tested, and swap{" "}
-          <code>dsetzer841-20</code> for your actual Amazon Associates tracking
-          ID in every link. Search-result links work initially, but direct
-          product links (with real ASINs) convert better once you&apos;ve
-          chosen final products.
+          <strong>Note for the site owner:</strong> prices and ratings here
+          are starting points &mdash; spot-check them against live Amazon
+          listings before each publishing cycle. Every link already carries the
+          site tracking tag, so new items only need the same{" "}
+          <code>?k=&amp;tag=</code> link pattern.
         </p>
       </div>
     </div>

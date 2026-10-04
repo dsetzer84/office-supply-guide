@@ -14,7 +14,7 @@ const PRODUCTS = [
     bestFor: "Full-day sit/stand switching",
     price: "$499",
     rating: "4.6★",
-    link: "https://www.amazon.com/dp/B0B7MX2KP1?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=electric+standing+desk+dual+motor&tag=dsetzer841-20",
   },
   {
     sku: "WS-002",
@@ -22,7 +22,7 @@ const PRODUCTS = [
     bestFor: "Lower-back relief, 8-hour days",
     price: "$329",
     rating: "4.7★",
-    link: "https://www.amazon.com/dp/B0DPHLWNBG?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=ergonomic+office+chair+lumbar+mesh&tag=dsetzer841-20",
   },
   {
     sku: "WS-003",
@@ -30,7 +30,7 @@ const PRODUCTS = [
     bestFor: "Multi-window workflows",
     price: "$449",
     rating: "4.6★",
-    link: "https://www.amazon.com/dp/B0F1H325FN?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=34+inch+ultrawide+monitor+qhd&tag=dsetzer841-20",
   },
   {
     sku: "WS-004",
@@ -38,7 +38,7 @@ const PRODUCTS = [
     bestFor: "Laptop + 2 displays, one cable",
     price: "$189",
     rating: "4.5★",
-    link: "https://www.amazon.com/dp/B0CW9249DK?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=usb+c+docking+station+dual+monitor&tag=dsetzer841-20",
   },
   {
     sku: "WS-005",
@@ -46,7 +46,7 @@ const PRODUCTS = [
     bestFor: "Reclaiming desktop, eye-line height",
     price: "$99",
     rating: "4.7★",
-    link: "https://www.amazon.com/dp/B07T5SY43L?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=dual+monitor+arm+adjustable&tag=dsetzer841-20",
   },
   {
     sku: "WS-006",
@@ -54,7 +54,7 @@ const PRODUCTS = [
     bestFor: "Long standing sessions",
     price: "$79",
     rating: "4.6★",
-    link: "https://www.amazon.com/dp/B0831N61G3?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=anti+fatigue+standing+desk+mat&tag=dsetzer841-20",
   },
   {
     sku: "WS-007",
@@ -62,7 +62,7 @@ const PRODUCTS = [
     bestFor: "Hiding power bricks & cords",
     price: "$45",
     rating: "4.5★",
-    link: "https://www.amazon.com/dp/B0DK13ZHNJ?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=dsetzer841-20",
   },
   {
     sku: "WS-008",
@@ -70,7 +70,7 @@ const PRODUCTS = [
     bestFor: "Paper overflow, lockable",
     price: "$159",
     rating: "4.4★",
-    link: "https://www.amazon.com/dp/B09JTHT445?tag=dsetzer841-20",
+    link: "https://www.amazon.com/s?k=rolling+mobile+file+cabinet+office&tag=dsetzer841-20",
   },
 ];
 
@@ -147,11 +147,73 @@ export default function BestWorkstationUpgrades() {
         </p>
       </article>
 
-      <p className="mt-6 text-sm text-ink/60">
-        [Add write-ups for the remaining five items, based on your own hands-on
-        notes or manufacturer specs. Each should be 2–4 sentences that say
-        something specific enough that a stock description couldn&apos;t.]
-      </p>
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          34&quot; Ultrawide QHD Monitor &mdash; The Seam-Free Upgrade
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          The upgrade that removes the seam between two screens. A 34-inch
+          3440&times;1440 panel holds two or three comfortable windows side by
+          side with no bezel gap down the middle &mdash; spreadsheet, browser,
+          and chat all visible at once. Look for at least 100 Hz refresh and a
+          USB-C input, and check the stand reaches your eye line, or budget for
+          an arm.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Dual-Monitor USB-C Docking Station &mdash; One Cable for Everything
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          A good dock turns plugging in your laptop into one click: displays,
+          Ethernet, peripherals, and 65&ndash;100 W of charging over a single
+          USB-C cable. Match the dock&apos;s video outputs to your
+          monitors&apos; inputs &mdash; DisplayPort versus HDMI &mdash; before
+          buying, since a dock that only mirrors is the usual let-down. Best
+          for anyone docking and undocking twice a day.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Adjustable Dual Monitor Arm &mdash; Reclaim the Desktop
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          An arm does two jobs at once: it lifts both panels to eye level and
+          frees the desk space their stands were squatting on. Gas-spring arms
+          let you push a screen back and pull it close without reaching for a
+          wrench. Check the desk clamp fits your surface thickness and that the
+          VESA pattern (usually 75&times;75 or 100&times;100) matches your
+          monitors.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Anti-Fatigue Standing Desk Mat &mdash; The Companion Buy
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          The accessory nobody plans for. Raise the desk but stand on a hard
+          floor and your feet will send you back to sitting within a week. A
+          mat with a raised centre ridge keeps you shifting your stance, which
+          is the whole point &mdash; it&apos;s the movement, not the
+          cushioning, that keeps legs fresh through a long standing block.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Rolling Mobile File Cabinet &mdash; Paper Overflow, Solved
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          The low-tech partner to the standing desk: a two- or three-drawer
+          cabinet on casters that tucks under the frame and rolls out when you
+          need it. Pick one with a lock if anything confidential lives inside,
+          and measure the gap under your desk&apos;s crossbar &mdash; the
+          cabinet has to clear the frame at sitting height.
+        </p>
+      </article>
 
       <h2 className="font-mono text-xl font-bold mt-12 mb-4">
         Frequently Asked Questions
@@ -196,9 +258,10 @@ export default function BestWorkstationUpgrades() {
           <strong>Note for the site owner:</strong> these are high-ticket
           picks, so each sale is worth far more than a $12 organizer — but
           Amazon pays a lower percentage on furniture and monitors. Check the
-          current Associates rate card for your categories, keep the tracking
-          ID consistent across every link, and swap any item whose exact model
-          changes before each publishing cycle.
+          current Associates rate card for your categories, replace these
+          search-result links with direct product links (real ASINs) once
+          you&apos;ve chosen final products, and keep the tracking ID consistent
+          across every link.
         </p>
       </div>
     </div>

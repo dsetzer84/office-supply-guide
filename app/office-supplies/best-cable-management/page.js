@@ -143,12 +143,69 @@ export default function BestCableManagement() {
         </p>
       </article>
 
-      <p className="mt-6 text-sm text-ink/60">
-        [Add write-ups for the remaining five products, based on your own
-        testing notes or manufacturer specs. Each should be 2&ndash;4 sentences
-        that say something specific enough that a stock description
-        couldn&apos;t.]
-      </p>
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Zippered Cable Management Sleeve &mdash; Best for Bundling a Run
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          Zips around thick cables &mdash; display, power, USB &mdash; and turns
+          them into one clean run you can still open without cutting ties. Best
+          for the visible stretch between desk and wall, where a tray
+          won&apos;t reach. Get the diameter right: too narrow and it
+          won&apos;t zip over a power lead.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Under-Desk Power Strip Mount &mdash; Best for Lifting the Strip Off the Floor
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          Clamps or screws the power strip to the underside of the desk instead
+          of leaving it loose on the floor, so you&apos;re not crawling under
+          for a plug and the strip stays out of foot range. Check the
+          mount&apos;s width against your strip&apos;s mounting holes &mdash;
+          the brackets are not universal.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Magnetic Cable Holder &mdash; Best for Charging Cables
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          Holds a few charging cables upright at the desk edge, ready to grab
+          and drop back into place instead of sliding behind the desk. The
+          magnet only grips steel-framed desks or a surface where you can add a
+          metal plate, so check your desk material before ordering.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Wall Cable Raceway Kit &mdash; Best for Run-to-the-Wall Setups
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          The permanent fix for a run that leaves the desk and travels along a
+          wall &mdash; a paintable channel that hides monitor, TV, or router
+          wires completely. It&apos;s a screw-or-adhesive job, so plan the
+          route first; the peel-and-stick strips need a clean, flat wall to
+          hold on.
+        </p>
+      </article>
+
+      <article className="mt-8">
+        <h3 className="font-mono text-lg font-semibold">
+          Cable Management Box (Large) &mdash; Best for Hiding the Hub
+        </h3>
+        <p className="mt-2 text-ink/85 leading-relaxed">
+          An all-in-one bin that swallows the whole power hub &mdash; strip,
+          bricks, extra slack &mdash; and hides it under the desk in one move.
+          It runs warmer than an open tray, so leave some slack and
+          don&apos;t bury a hot charger, and check the box actually clears your
+          desk frame.
+        </p>
+      </article>
 
       <h2 className="font-mono text-xl font-bold mt-12 mb-4">
         Frequently Asked Questions
