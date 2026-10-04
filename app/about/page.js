@@ -17,7 +17,7 @@ export default function About() {
       
 
       We research products carefully before recommending them, looking at features,
-    materials, usability, customer feedback, and overall value. We're espesially 
+    materials, usability, customer feedback, and overall value. We&apos;re espesially 
     interested in solving the real problems that cone with working or studying at 
     a desk, such as clutter, discomfort, poor organization, limited space, and 
     finding the right tools without wasting money on products that do not deliver.
