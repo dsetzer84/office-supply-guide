@@ -10,67 +10,67 @@ export const metadata = {
 const PRODUCTS = [
   {
     sku: "WS-001",
-    name: "Electric Standing Desk (Dual Motor)",
+    name: "FLEXISPOT E6 Dual-Motor Standing Desk",
     bestFor: "Full-day sit/stand switching",
-    price: "$499",
-    rating: "4.6★",
-    link: "https://www.amazon.com/s?k=electric+standing+desk+dual+motor&tag=dsetzer841-20",
+    price: "$288",
+    rating: "4.4★",
+    link: "https://www.amazon.com/dp/B0B7MX2KP1?tag=dsetzer841-20",
   },
   {
     sku: "WS-002",
-    name: "Premium Ergonomic Mesh Chair",
+    name: "Steelcase Series 1 Ergonomic Chair",
     bestFor: "Lower-back relief, 8-hour days",
-    price: "$329",
-    rating: "4.7★",
-    link: "https://www.amazon.com/s?k=ergonomic+office+chair+lumbar+mesh&tag=dsetzer841-20",
+    price: "$499",
+    rating: "4.2★",
+    link: "https://www.amazon.com/dp/B08M46SHCG?tag=dsetzer841-20",
   },
   {
     sku: "WS-003",
-    name: '34" Ultrawide QHD Monitor',
+    name: 'Dell S3425DW 34" Ultrawide QHD Monitor',
     bestFor: "Multi-window workflows",
-    price: "$449",
-    rating: "4.6★",
-    link: "https://www.amazon.com/s?k=34+inch+ultrawide+monitor+qhd&tag=dsetzer841-20",
+    price: "$400",
+    rating: "4.4★",
+    link: "https://www.amazon.com/dp/B0F1H325FN?tag=dsetzer841-20",
   },
   {
     sku: "WS-004",
-    name: "Dual-Monitor USB-C Docking Station",
+    name: "Anker Prime 14-in-1 Docking Station",
     bestFor: "Laptop + 2 displays, one cable",
-    price: "$189",
-    rating: "4.5★",
-    link: "https://www.amazon.com/s?k=usb+c+docking+station+dual+monitor&tag=dsetzer841-20",
+    price: "$170",
+    rating: "4.3★",
+    link: "https://www.amazon.com/dp/B0CW9249DK?tag=dsetzer841-20",
   },
   {
     sku: "WS-005",
-    name: "Adjustable Dual Monitor Arm",
+    name: "EVEO Premium Dual Monitor Arm",
     bestFor: "Reclaiming desktop, eye-line height",
-    price: "$99",
-    rating: "4.7★",
-    link: "https://www.amazon.com/s?k=dual+monitor+arm+adjustable&tag=dsetzer841-20",
+    price: "$110",
+    rating: "4.4★",
+    link: "https://www.amazon.com/dp/B07V1J81FB?tag=dsetzer841-20",
   },
   {
     sku: "WS-006",
-    name: "Anti-Fatigue Standing Desk Mat",
+    name: "Ergodriven Topo Anti-Fatigue Mat",
     bestFor: "Long standing sessions",
-    price: "$79",
-    rating: "4.6★",
-    link: "https://www.amazon.com/s?k=anti+fatigue+standing+desk+mat&tag=dsetzer841-20",
+    price: "$109",
+    rating: "4.7★",
+    link: "https://www.amazon.com/dp/B00V3TO9EK?tag=dsetzer841-20",
   },
   {
     sku: "WS-007",
-    name: "Under-Desk Cable Management Tray",
+    name: "No-Drill Under-Desk Cable Tray (2-Pack)",
     bestFor: "Hiding power bricks & cords",
-    price: "$45",
-    rating: "4.5★",
-    link: "https://www.amazon.com/s?k=under+desk+cable+management+tray&tag=dsetzer841-20",
+    price: "$30",
+    rating: "4.7★",
+    link: "https://www.amazon.com/dp/B09L63QJM6?tag=dsetzer841-20",
   },
   {
     sku: "WS-008",
-    name: "Rolling Mobile File Cabinet",
+    name: "DEVAISE 3-Drawer Mobile File Cabinet",
     bestFor: "Paper overflow, lockable",
-    price: "$159",
-    rating: "4.4★",
-    link: "https://www.amazon.com/s?k=rolling+mobile+file+cabinet+office&tag=dsetzer841-20",
+    price: "$116",
+    rating: "4.6★",
+    link: "https://www.amazon.com/dp/B072PS6YMP?tag=dsetzer841-20",
   },
 ];
 
@@ -83,7 +83,7 @@ export default function BestWorkstationUpgrades() {
       </h1>
       <div className="mt-4 flex flex-wrap gap-3">
         <StampBadge label="8 Tested" variant="best" />
-        <StampBadge label="$45 – $499" variant="premium" />
+        <StampBadge label="$30 – $499" variant="premium" />
       </div>
 
       <p className="mt-6 text-ink/85 leading-relaxed">
@@ -111,106 +111,113 @@ export default function BestWorkstationUpgrades() {
 
       <article className="mt-6">
         <h3 className="font-mono text-lg font-semibold">
-          Electric Standing Desk (Dual Motor) — The One That Earns Its Keep
+          FLEXISPOT E6 Dual-Motor Standing Desk — The One That Earns Its Keep
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
-          The single upgrade that changes the most about a workday. A dual-motor
-          frame lifts a full desktop — monitors, dock, everything — without the
-          shudder you get from single-motor budget desks. Look for a 40&quot;+
-          height range and a memory controller so your standing height is one
-          button, not a hold-and-guess.
+          The single upgrade that changes the most about a workday. The
+          FLEXISPOT E6 pairs a 3-stage dual-motor frame with a one-piece
+          55&quot;&times;28&quot; maple top, lifting a full desktop — monitors,
+          dock, everything — from 23.6&quot; to 48.8&quot; without the shudder
+          you get from single-motor budget desks. It&apos;s rated to 220 lbs
+          and holds four memory presets, so your standing height is one button,
+          not a hold-and-guess.
         </p>
       </article>
 
       <article className="mt-8">
         <h3 className="font-mono text-lg font-semibold">
-          Premium Ergonomic Mesh Chair — Best for Long Days
+          Steelcase Series 1 Ergonomic Chair — Best for Long Days
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
           The jump from a $90 task chair to a genuinely adjustable one is the
-          most underrated upgrade on this list. Prioritise adjustable lumbar
-          depth and a seat pan that slides — those two settings do more for a
-          5 p.m. back than any amount of padding. Mesh keeps you from running
-          hot through the afternoon.
+          most underrated upgrade on this list. The Steelcase Series 1 brings
+          weight-activated recline, adjustable lumbar, and a 4D arm option to a
+          sub-$500 price — the same ergonomics the brand puts in its office
+          fleet, backed by a 12-year warranty. Mesh keeps you from running hot
+          through the afternoon.
         </p>
       </article>
 
       <article className="mt-8">
         <h3 className="font-mono text-lg font-semibold">
-          Under-Desk Cable Management Tray — Best Value
+          No-Drill Under-Desk Cable Tray — Best Value
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
-          The cheapest item here, and the one people notice first. A clamp-on
-          tray hides the power brick, the slack, and the dock that otherwise
-          pools on the floor. Buy it alongside the desk, not after — routing
-          cables once is far easier than re-routing a settled setup.
+          The cheapest item here, and the one people notice first. A no-drill
+          clamp-on steel tray hides the power brick, the slack, and the dock
+          that otherwise pools on the floor — this 31.5&quot; two-pack mounts
+          under the desk edge without a single screw hole. Buy it alongside the
+          desk, not after: routing cables once is far easier than re-routing a
+          settled setup.
         </p>
       </article>
 
       <article className="mt-8">
         <h3 className="font-mono text-lg font-semibold">
-          34&quot; Ultrawide QHD Monitor &mdash; The Seam-Free Upgrade
+          Dell S3425DW 34&quot; Ultrawide QHD Monitor &mdash; The Seam-Free Upgrade
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
-          The upgrade that removes the seam between two screens. A 34-inch
-          3440&times;1440 panel holds two or three comfortable windows side by
-          side with no bezel gap down the middle &mdash; spreadsheet, browser,
-          and chat all visible at once. Look for at least 100 Hz refresh and a
-          USB-C input, and check the stand reaches your eye line, or budget for
-          an arm.
+          The upgrade that removes the seam between two screens. Dell&apos;s
+          S3425DW is a 34-inch 3440&times;1440 VA panel at 120 Hz with FreeSync
+          Premium and a USB-C input that carries video and 65 W of laptop
+          charging over one cable. Spreadsheet, browser, and chat sit side by
+          side with no bezel gap down the middle &mdash; just check the stand
+          reaches your eye line, or budget for an arm.
         </p>
       </article>
 
       <article className="mt-8">
         <h3 className="font-mono text-lg font-semibold">
-          Dual-Monitor USB-C Docking Station &mdash; One Cable for Everything
+          Anker Prime 14-in-1 Docking Station &mdash; One Cable for Everything
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
-          A good dock turns plugging in your laptop into one click: displays,
-          Ethernet, peripherals, and 65&ndash;100 W of charging over a single
-          USB-C cable. Match the dock&apos;s video outputs to your
-          monitors&apos; inputs &mdash; DisplayPort versus HDMI &mdash; before
-          buying, since a dock that only mirrors is the usual let-down. Best
-          for anyone docking and undocking twice a day.
+          A good dock turns plugging in your laptop into one click. The Anker
+          Prime 14-in-1 drives two 4K displays over dual HDMI, adds Ethernet,
+          audio, and 10 Gbps data ports, and pushes up to 160 W of total output
+          &mdash; enough to charge the laptop and a couple of peripherals at
+          once. Match its video outputs to your monitors&apos; inputs before
+          buying, since a dock that only mirrors is the usual let-down.
         </p>
       </article>
 
       <article className="mt-8">
         <h3 className="font-mono text-lg font-semibold">
-          Adjustable Dual Monitor Arm &mdash; Reclaim the Desktop
+          EVEO Premium Dual Monitor Arm &mdash; Reclaim the Desktop
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
           An arm does two jobs at once: it lifts both panels to eye level and
-          frees the desk space their stands were squatting on. Gas-spring arms
-          let you push a screen back and pull it close without reaching for a
-          wrench. Check the desk clamp fits your surface thickness and that the
-          VESA pattern (usually 75&times;75 or 100&times;100) matches your
-          monitors.
+          frees the desk space their stands were squatting on. The EVEO Premium
+          gas-spring arm carries two 14&ndash;32&quot; screens up to 22 lbs
+          each, with full tilt, swivel, and rotation, and clamps to desks up to
+          about 4&quot; thick. Check the VESA pattern (usually 75&times;75 or
+          100&times;100) matches your monitors.
         </p>
       </article>
 
       <article className="mt-8">
         <h3 className="font-mono text-lg font-semibold">
-          Anti-Fatigue Standing Desk Mat &mdash; The Companion Buy
+          Ergodriven Topo Anti-Fatigue Mat &mdash; The Companion Buy
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
           The accessory nobody plans for. Raise the desk but stand on a hard
-          floor and your feet will send you back to sitting within a week. A
-          mat with a raised centre ridge keeps you shifting your stance, which
-          is the whole point &mdash; it&apos;s the movement, not the
-          cushioning, that keeps legs fresh through a long standing block.
+          floor and your feet will send you back to sitting within a week. The
+          Ergodriven Topo&apos;s calculated terrain &mdash; a raised centre
+          ridge and varied contours &mdash; keeps you shifting your stance,
+          which is the whole point: it&apos;s the movement, not the cushioning,
+          that keeps legs fresh through a long standing block.
         </p>
       </article>
 
       <article className="mt-8">
         <h3 className="font-mono text-lg font-semibold">
-          Rolling Mobile File Cabinet &mdash; Paper Overflow, Solved
+          DEVAISE 3-Drawer Mobile File Cabinet &mdash; Paper Overflow, Solved
         </h3>
         <p className="mt-2 text-ink/85 leading-relaxed">
-          The low-tech partner to the standing desk: a two- or three-drawer
-          cabinet on casters that tucks under the frame and rolls out when you
-          need it. Pick one with a lock if anything confidential lives inside,
-          and measure the gap under your desk&apos;s crossbar &mdash; the
+          The low-tech partner to the standing desk: a three-drawer cabinet on
+          casters that tucks under the frame and rolls out when you need it. The
+          DEVAISE unit takes letter, legal, and A4 files, locks all three
+          drawers with one key, and arrives fully assembled except for the
+          wheels. Measure the gap under your desk&apos;s crossbar &mdash; the
           cabinet has to clear the frame at sitting height.
         </p>
       </article>
@@ -258,10 +265,9 @@ export default function BestWorkstationUpgrades() {
           <strong>Note for the site owner:</strong> these are high-ticket
           picks, so each sale is worth far more than a $12 organizer — but
           Amazon pays a lower percentage on furniture and monitors. Check the
-          current Associates rate card for your categories, replace these
-          search-result links with direct product links (real ASINs) once
-          you&apos;ve chosen final products, and keep the tracking ID consistent
-          across every link.
+          current Associates rate card for your categories, and re-verify each
+          ASIN against the live listing before each publishing cycle, since
+          Amazon product pages occasionally change.
         </p>
       </div>
     </div>
